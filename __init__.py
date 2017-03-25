@@ -1,0 +1,1 @@
+from .jsonldviewer import app
